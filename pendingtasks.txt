@@ -4,4 +4,3 @@ Half a Linked List
 
 Binary Tree
 
-Heaps and Heapsort!
