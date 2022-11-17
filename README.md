@@ -1,3 +1,3 @@
 # cs1203-datastructures 
 
-This contains CS1203 Lecture 6 -  'C' code.
+This contains CS1203 Lectures -  'C' code.
