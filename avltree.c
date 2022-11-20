@@ -249,6 +249,7 @@ int main()
     printf("\n"); //Print a new line to make things prettier!
     printTree(root);
     return 0;
+    
 }
 
 
