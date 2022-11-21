@@ -1,6 +1,4 @@
-Chunk Reverse a Linked List
+Skip Lists or "The Express Elevator List"
 
-Half a Linked List
 
-Binary Tree
 
