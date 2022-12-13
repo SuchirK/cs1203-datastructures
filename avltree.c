@@ -1,7 +1,7 @@
 //AVL Trees. Given an array, construct an AVL tree with helper operations (including left and right rotations)
 //Deliverable 
 //1. AVL tree with helper operations
-//2. AVL tree with helper operations and a function that takes an array and constructs an AVL tree
+//2. AVL tree with helper operations and a function that takes an array and constructs an AVL tree.
 //An AVL tree is a self balancing binary search tree. It is balanced if the difference between the heights of the left and right subtrees of any node is at most 1.
 
 
