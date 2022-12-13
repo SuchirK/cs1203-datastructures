@@ -1,5 +1,5 @@
 //Implementing a skipped list with 2 pointers. For simplicity, I will use a 5 floor version 
-//Deliverable: Implement a skipped list with 5 floors.
+//Deliverable: Implement a skipped list with 5 floors. .
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -167,8 +167,7 @@ int main(){ //Main function
 
 
 
-
-
+//Skipped Lists
 
 
 
